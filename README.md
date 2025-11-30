@@ -28,8 +28,7 @@ Follow these instructions to set up the project for local development.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yusufipk/YTChatHub
-    cd YTChatHub
+    https://github.com/moderathor12/YTChatHub.git
     ```
 
 2.  **Install dependencies:**
@@ -55,3 +54,6 @@ pnpm dev
 - **Backend**: [Node.js](https://nodejs.org/) with [Fastify](https://www.fastify.io/) and [tsx](https://github.com/esbuild-kit/tsx)
 - **YouTube Integration**: [youtubei.js](https://github.com/LuanRT/YouTube.js)
 - **Styling**: Handcrafted CSS
+
+## NOTE: THİS PROJECT İS MODDED VERSİON OF YTChatHUB which was created by yusufipk.YOU CAN VISIT THE OFFICIAL VERSION WITH FOLLOWING THE LINK BELOW:
+THE OFFİCİAL PROJECT LİNK: https://github.com/yusufipk/YTChatHub
