@@ -1,4 +1,4 @@
-# YouTube Live Chat Client (WIP)
+# YouTube Live Chat Client (Modded) V2.1
 
 Build a desktop-operated, open-source YouTube Live chat client that delivers a fast, reliable stream of messages and allows a streamer to spotlight a selected chat message on an OBS-ready overlay.
 
@@ -11,6 +11,8 @@ Currently work in progress bugs might be there.
 - **Rich Message Support**: Full support for Super Chats, gifted memberships, and user badges.
 - **Compact and Efficient**: A dark, minimalist UI designed to be space-efficient and easy on the eyes.
 - **Intelligent Auto-Scroll**: The chat automatically scrolls to new messages but stops when you scroll up to read previous messages.
+- **TTS function (text to speech)**: Automatically reads all the comments in all languages.
+
 
 ## Getting Started
 
