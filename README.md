@@ -1,4 +1,4 @@
-# YouTube Live Chat Client (Modded) V2.1
+# YouTube Live Chat Client (Modded) V2.0
 
 Build a desktop-operated, open-source YouTube Live chat client that delivers a fast, reliable stream of messages and allows a streamer to spotlight a selected chat message on an OBS-ready overlay.
 
