@@ -21,7 +21,7 @@ export type ChatEventEmitter = EventEmitter<{
   error: (error: unknown) => void;
 }>;
 
-const defaultTimeout = 1500;
+const defaultTimeout = 250;
 
 // Track message IDs to ensure uniqueness
 const seenIds = new Map<string, number>();
